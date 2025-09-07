@@ -1,6 +1,6 @@
 # Matchstick Box (aka Woodbox)
 
-<img src="pictures/woodbox.jpg" width="600">
+<img src="pictures/woodbox.jpg" width="800">
 
 The goal of the project was to make a controller that would be more comfortable for people with wider shoulders through split layout (movement buttons and attack buttons separated). Additionally, it was supposed to prevent Ulnar Deviation / wrist angling by slightly tilting each button block inwards. Bigger size also helps with more comfort when placed on the knees, which is something I would typically have to do at locals.
 

@@ -25,6 +25,7 @@ To mount the USB Extender, I had to use a mounting plate - see DESIGN.md for exp
 My painting experience is limited by painting small plastic dudes. As such, I didn't know where to start with painting a box made out of pine and plywood. A WikiHow article suggested using a shellac-based primer, but I couldn't really find one in my closest hardware store. I also tried using some advice from an LLM, but in retrospect it was clearly making shit up based on the techniques used for painting small plastic dudes or painting outdoor furniture. I ended up buying a can of 2-in-1 acrylic paint & primer, rated for outdoor and indoor use, supposedly also fitting for use with the toys. I think that was an OK decision, though I was later criticized for painting a relatively small DIY project "like a wood fence".
 
 First layers looked very promising:
+
 <img src="pictures/painting1.jpg" width="600">
 
 However, as I went on, it was clear that I was doing something wrong. Not only having to wait for ~24 hours between painting sessions seemed excessive, especially given that I had to paint my box inside and outside and on the sides, but soon enough paint started to look much worse:
@@ -45,3 +46,5 @@ Thankfully, after applying a clear coat from a spray can, the texture and appear
 ## Miscellaneous stuff
 
 I also added some furniture gliders made from felt (see the picture above). Normally people add non-slip rubber feet to their controllers, but I haven't felt the need to - I just wanted to protect my controller from the surfaces (or vice versa), and make it a bit more comfortable to play with when wearing shorter clothing. I think it worked well enough.
+
+The artwork was printed at the copy shop. Next time, I would go for a glossier and thicker paper to make it easier to cut holes for buttons.

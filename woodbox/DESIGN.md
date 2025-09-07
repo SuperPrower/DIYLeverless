@@ -25,11 +25,11 @@ The box I've purchased didn't have enough height in the wall to mount a Neutrik-
 
 Unfortunately, I placed the holes through which the plate would be mounted to the case too close to the other holes. Because I was adding furniture threaded inserts to the case (think typical brass threaded insert, but for wood), they ended up not having enough clearance and not being safely covered by the wood from all sides:
 
-<img src="pictures/baddrilling.jpg" width="400">
+<img src="pictures/baddrilling.jpg" width="500">
 
 A lot of glue and wood filler eventually solved the problem, but I'm afraid to tighten the screws now. However, it works, and in theory I can disassemble the installation to replace the extender cable:
 
-<img src="pictures/usbmountplate.jpg" width="600">
+<img src="pictures/usbmountplate.jpg" width="800">
 
 ### Homework
 * Use a better USB extender - I believe Punk Workshop sells a similar one, but with screw holes being further out from the body of the USB port, or use a Neutrik-style panel mounted USB port.
@@ -40,3 +40,9 @@ I've added a small cutout to fit a small OLED. However, I didn't plan for mounti
 
 ### Homework
 * Find a good way to mount a display. If the display is not touching the surface, I think it is possible to hide the bottom part of the glass that doesn't show anything, removing the need for a cable notch altogether.
+
+## Artwork
+I have exported the laser cutter layout for the acrylic sheet as svg and used it to design an artwork around it. I'm not sharing the art to avoid violating copyright, but I've used CC images of fire, various filters and layer blending modes in GIMP editor, and the following images:
+
+- https://www.pixiv.net/en/artworks/101323675
+- https://x.com/click_burgundy/status/1570615560433729536

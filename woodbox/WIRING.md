@@ -25,7 +25,7 @@ The Cherry MX switches (non-RGB version) fit 3mm LEDs, however I've discovered t
 
 ### Homework
 - I wanted to make it so I don't need to de-solder anything to remove the button. To achieve that, I've soldered 2.8mm terminals, same ones used by the buttons, to the legs of LEDs. I've also soldered a resistor to the LED instead of to the cable going to it. However, this proved to be a bad decision, because all of it takes too much space and looks really messy at the end:
-<img src="pictures/wiring-progress.jpg" width="300">
+<img src="pictures/wiring-progress.jpg" width="600">
 - Next time, I would probably look for some sort of connection which would fit the legs of LEDs and hold them firmly, similar to how hot swap sockets for keyboard switches work.
 - Either because the VCC pin on the board is 5V and the logic pins are pulled up to 3.3V or for some other reason, some LEDs, namely reds and to a lesser extent yellows, can be faintly seen glowing when not pressed. That's probably not great for their longevity.
 
